@@ -20,7 +20,7 @@ https://github.com/nmelhado/league-page/blob/master/TRAINING_WHEELS.md#ii-adding
 
 /* To omit an optional field, set it's value to null
 */
-
+/*
 export const managers = [
     {
       "manager_id": "860242518346956800"
