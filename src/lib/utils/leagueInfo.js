@@ -9,6 +9,7 @@ export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VI
 export const homepageText = `
   <p>Welcome to the Degen Dynasty website. This will be the location of any and all information regarding this league, allowing you to keep updated with each week's scores, transactions, power rankings and more.
   I will be frequently updating this to provide enhanced functionalities and allowing myself to learn more coding, etc. so I can make more money and we can get these damn dues higher. LFG boys. </p>
+  <p>test</p>
 `;
 
 /*   STEP 3   */
