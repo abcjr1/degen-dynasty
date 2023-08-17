@@ -23,7 +23,7 @@ https://github.com/nmelhado/league-page/blob/master/TRAINING_WHEELS.md#ii-adding
 
 export const managers = [
     {
-      "manager_id": "860242518346956800"
+      "manager_id": "860242518346956800",
       "name": "Anthony Calderone",
       "location": "Atlanta", // (optional)
       "bio": "test...",
