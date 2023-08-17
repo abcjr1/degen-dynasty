@@ -25,7 +25,7 @@ export const managers = [
       "manager_id": "860242518346956800"
       "name": "Anthony Calderone",
       "location": "Atlanta", // (optional)
-      "bio": "Lorem ipsum...",
+      "bio": "test...",
       "photo": "/managers/name.jpg", // square ratio recommended (no larger than 500x500)
       "fantasyStart": 2014, // (optional) when did the manager start playing fantasy football
       "favoriteTeam": "nyj", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
