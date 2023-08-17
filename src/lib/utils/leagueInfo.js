@@ -22,7 +22,6 @@ https://github.com/nmelhado/league-page/blob/master/TRAINING_WHEELS.md#ii-adding
 */
 
 export const managers = [
-    {
       "manager_id": "860242518346956800",
       "name": "Anthony Calderone",
       "location": "Atlanta", // (optional)
@@ -42,7 +41,6 @@ export const managers = [
       "philosophy": "Your fantasy team's philosophy",
       "tradingScale": 10, // 1 - 10
       "preferredContact": "Text", // 'Text', 'WhatsApp', 'Sleeper', 'Email', 'Phone', 'Discord', and 'Carrier Pigeon' are currently supplied in the template
-    }
   ]
   
   /*   !!  !!  IMPORTANT  !!  !! */
